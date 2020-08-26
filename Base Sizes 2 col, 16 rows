@@ -1,0 +1,20 @@
+baseNew <- XXX
+baseOld <- XXX
+
+paste(baseNew[1], "\t",baseOld[1],
+  "\n", baseNew[2], "\t",baseOld[2],
+  "\n", baseNew[3], "\t",baseOld[3],
+  "\n", baseNew[4], "\t",baseOld[4],
+  "\n", baseNew[5], "\t",baseOld[5],
+  "\n", baseNew[6], "\t",baseOld[6],
+  "\n", baseNew[7], "\t",baseOld[7],
+  "\n", baseNew[8], "\t",baseOld[8],
+  "\n", baseNew[9], "\t",baseOld[9],
+  "\n", baseNew[10], "\t",baseOld[10],
+  "\n", baseNew[11], "\t",baseOld[11],
+  "\n", baseNew[12], "\t",baseOld[12],
+  "\n", baseNew[13], "\t",baseOld[13],
+  "\n", baseNew[14], "\t",baseOld[14],
+  "\n", baseNew[15], "\t",baseOld[15],
+  "\n", baseNew[16], "\t",baseOld[16],
+sep="")

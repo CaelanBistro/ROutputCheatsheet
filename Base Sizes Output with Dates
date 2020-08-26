@@ -1,0 +1,10 @@
+data <- table.OS1.CSAT.AUTO.by.DATE.QUARTER.OF.SURVEY.COMPLETE.5
+
+date = colnames(data)
+
+paste("OS1 – ...",
+"\nOS12 - ...",
+"\nOS3 - ...",
+"\nD2 – ...",
+"\nD3 – ...",
+"\nBase: ", date[2], " (n=", data[1,2], ")", sep="")
